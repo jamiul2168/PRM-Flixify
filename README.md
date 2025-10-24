@@ -1,1 +1,1 @@
-# Premium-Flixify
+# PRM-Flixify
